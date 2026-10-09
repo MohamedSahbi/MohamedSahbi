@@ -1,16 +1,21 @@
-## Hi there 👋
+Hello my friend! 👋
 
-<!--
-**MohamedSahbi/MohamedSahbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Cloud Automation & DevOps Engineer at Atlas Copco.
+I work on the stuff developers use every day: GitHub Copilot, Azure DevOps, cloud governance,
+and the pipelines and guardrails around them. Before that, .NET software engineer and DevOps lead at DHL.
 
-Here are some ideas to get you started:
+**Stack:** Azure · GitHub · Azure DevOps · Terraform · Bicep · PowerShell · .NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I learned rolling out AI to 1,800+ engineers
+
+- Licenses are the easy part. Budgets, support and "who pays for this" take most of the time.
+- Building a community does more for adoption than any training I run.
+- Governance that blocks people gets bypassed. Governance that makes the right path easy gets used.
+
+## Ask me about
+Azure Governance · GitHub Copilot billing and budgets · Azure DevOps at enterprise scale · building developer communities
+
+---
+Most of my work lives in private enterprise repos. What's here is side projects and notes.
+[LinkedIn](https://www.linkedin.com/in/MohamedSahbi)
